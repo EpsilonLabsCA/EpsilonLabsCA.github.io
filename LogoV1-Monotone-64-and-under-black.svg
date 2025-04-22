@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.09083,0,0,1.09083,-42.1082,-46.5059)">
+        <path d="M968.365,143.683L968.365,880.317C968.365,931.137 927.106,972.397 876.286,972.397L139.651,972.397C88.831,972.397 47.572,931.137 47.572,880.317L47.572,143.683C47.572,92.863 88.831,51.603 139.651,51.603L876.286,51.603C927.106,51.603 968.365,92.863 968.365,143.683Z"/>
+    </g>
+    <g transform="matrix(2.47769,0,0,2.47769,-2429.33,-1423.95)">
+        <g transform="matrix(600,0,0,600,1313.25,936.92)">
+        </g>
+        <text x="1045.77px" y="936.92px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:600px;fill:white;">ε</text>
+    </g>
+</svg>
