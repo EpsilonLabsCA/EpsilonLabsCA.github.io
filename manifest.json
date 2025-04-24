@@ -1,0 +1,18 @@
+{
+	"name": "EpsilonLabs.ca",
+	"short_name": "EpsilonLabs",
+	"description": "EpsilonLabs, a software agency.",
+	"theme_color": "#000000",
+	"background_color": "#000000",
+	"display": "minimal-ui",
+	"display_override": [
+		"minimal-ui"
+	],
+	"id": "https://www.epsilonlabs.ca/",
+	"icons": [
+		{
+			"src": "/LogoV1-Monotone-128-to-1024-white.png"
+		}
+	],
+	"orientation": "landscape"
+}
