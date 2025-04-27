@@ -11,7 +11,7 @@
 	"id": "https://www.epsilonlabs.ca/",
 	"icons": [
 		{
-			"src": "/img/LogoV1-Monotone-128-to-1024-white.png"
+			"src": "/img/icons/LogoV1-Monotone-128-to-1024-black.svg"
 		}
 	],
 	"orientation": "landscape"
